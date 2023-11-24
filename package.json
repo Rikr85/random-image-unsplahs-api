@@ -1,0 +1,16 @@
+{
+  "name": "private-pull-comb-v0yio",
+  "productName": "private-pull-comb-v0yio",
+  "description": "My Electron application description",
+  "keywords": [],
+  "main": "./main.js",
+  "version": "1.0.0",
+  "author": "Diseño",
+  "scripts": {
+    "start": "electron ."
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "electron": "26.2.2"
+  }
+}
